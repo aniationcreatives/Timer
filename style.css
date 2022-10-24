@@ -1,0 +1,58 @@
+body
+{
+    background: linear-gradient(
+        to right,
+        #FFD3A5  ,
+        #FD6585
+    );
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+}
+
+h1
+{
+    color: whitesmoke;
+    font-size: 10rem;
+    font-weight: 900;
+    opacity: 0.7;
+}
+
+.timer-text
+{
+    padding-top: 10rem;
+    font-size: 15rem;
+    font-weight: 900;
+}
+
+#buttons
+{
+    padding: 2rem 4rem;
+}
+
+.btn
+{
+    font-size: 1.5rem;
+    margin: 3rem 2rem;
+    opacity: 0.8;
+    width: 10rem;
+    height: 3.5rem;
+    background: linear-gradient(
+        to right,
+        #f8aa2d,
+        #dce834
+    );
+    border: none;
+}
+
+.btn:hover
+{
+    opacity: 0.6;
+    width: 10.5rem;
+    height: 3.7rem;
+    background: linear-gradient(
+        to right,
+        #fea20f,
+        #dfed1a
+    );
+    border: none;
+}
